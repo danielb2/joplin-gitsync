@@ -1,8 +1,16 @@
 # Joplin Plugin
 
-This is your new Joplin plugin. It is suggested that you use this README file to document your plugin.
+This project is unfinished. please check back later.
 
-For information on how to build or publish the plugin, please see [GENERATOR_DOC.md](./GENERATOR_DOC.md)
+The goal here is to sync your git repo to a local place on your filesystem, and then use the File System sync target for synchronization.
+
+# Usage
+
+1. In Synchronization target: File System
+2. Directory to synchronize with (absolute path) - pick the appropriate file system path
+3. configure plugin to where your git repo is located
+4. use the plugin to clone/pull the repo
+5. let joplin sync the files
 
 # Libraries used
 - https://github.com/isomorphic-git/isomorphic-git
