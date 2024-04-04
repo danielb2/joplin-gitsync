@@ -1,0 +1,15 @@
+{
+	"manifest_version": 1,
+	"id": "org.otherware.gitsync",
+	"app_min_version": "2.13",
+	"version": "1.0.0",
+	"name": "GitSync",
+	"description": "sync your joplin files from a git repo",
+	"author": "Daniel Bretoi",
+	"homepage_url": "https://github.com/danielb2/joplin-gitsync",
+	"repository_url": "https://github.com/danielb2/joplin-gitsync",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {}
+}
